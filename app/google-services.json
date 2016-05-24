@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "wifilocate-7169c",
+    "project_number": "684278413477",
+    "name": "Wifilocate"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684278413477:android:57f831f352fc1b2b",
+        "client_id": "android:wl.uniovi.es",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "wl.uniovi.es"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684278413477-87lq76lfda936eh2qcqit5e9i330pm5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wl.uniovi.es",
+            "certificate_hash": "909C221FCB320557791A19BDA1331EEDD112DE29"
+          }
+        },
+        {
+          "client_id": "684278413477-e1gpt5h6u50336csge3mrjiimge4topq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

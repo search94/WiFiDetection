@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFiLocate</string>
+    <string name="Settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="languaje">language</string>
+    <string name="language">language</string>
+    <string name="nombre">Name</string>
+    <string name="distance">Distance</string>
+    <string name="BConnect">Connect</string>
+    <string name="Tags">Tags</string>
+    <string name="l_en">english</string>
+    <string name="l_es">spanish</string>
+    <string name="search">Search</string>
+    <string name="title_list">Wifi List</string>
+</resources>

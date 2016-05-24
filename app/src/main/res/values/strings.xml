@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WiFiLocate</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="BConnect">Conectar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Settings">Ajustes</string>
+    <string name="languaje">idioma</string>
+    <string name="language">idioma</string>
+    <string name="nombre">Nombre</string>
+    <string name="distance">Distancia</string>
+    <string name="Tags">Etiquetas</string>
+    <string name="l_en">inglés</string>
+    <string name="l_es">castellano</string>
+    <string name="search">Búsqueda</string>
+    <string name="favourites" translatable="false">fav</string>
+    <string name="title_list">Lista Wifi</string>
+    <string name="title_fav" translatable="false">Favs</string>
+    <string name="title_pref" translatable="false">Prefs</string>
+</resources>
